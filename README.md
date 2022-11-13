@@ -5,5 +5,5 @@ Accomplished Supply Chain Analyst with understanding of Last Mile Delivery, Fulf
 
 # Personal Tech Backround
 ### Data Scince | Business Intelligence | Supply Chain Analysis
-      ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)      Python      SQL
+     MicrosoftExcel    Python     SQL
 
